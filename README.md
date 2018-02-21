@@ -13,3 +13,7 @@ built using
 and deployed to heroku
 
 visit project at https://expenses1.herokuapp.com/
+
+screenshots 
+- https://imgur.com/okzcspG
+- https://imgur.com/FLCTwXA
