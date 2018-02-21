@@ -9,6 +9,7 @@ built using
 - firebase
 - sass
 - more info in package.json
+
 and deployed to heroku
 
 visit project at https://expenses1.herokuapp.com/
