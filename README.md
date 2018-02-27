@@ -5,7 +5,6 @@ built using
 - react
 - redux
 - react router
-- passport
 - firebase
 - sass
 - more info in package.json
